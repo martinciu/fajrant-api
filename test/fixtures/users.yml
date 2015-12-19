@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  toggl_id: 1
+  togglApiKey: MyString
+  workspaceId: 1
+  name: MyString
+  email: MyString
+
+two:
+  toggl_id: 1
+  togglApiKey: MyString
+  workspaceId: 1
+  name: MyString
+  email: MyString
